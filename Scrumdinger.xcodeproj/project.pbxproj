@@ -11,6 +11,7 @@
 		036CBBC22ABF171F0074F2BE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 036CBBC12ABF171F0074F2BE /* ContentView.swift */; };
 		036CBBC42ABF17210074F2BE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 036CBBC32ABF17210074F2BE /* Assets.xcassets */; };
 		036CBBC82ABF17210074F2BE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 036CBBC72ABF17210074F2BE /* Preview Assets.xcassets */; };
+		03C36EDC2AD4072100EE17B7 /* MeetingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03C36EDB2AD4072100EE17B7 /* MeetingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		036CBBC32ABF17210074F2BE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		036CBBC52ABF17210074F2BE /* Scrumdinger.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Scrumdinger.entitlements; sourceTree = "<group>"; };
 		036CBBC72ABF17210074F2BE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		03C36EDB2AD4072100EE17B7 /* MeetingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				036CBBBF2ABF171F0074F2BE /* ScrumdingerApp.swift */,
 				036CBBC12ABF171F0074F2BE /* ContentView.swift */,
+				03C36EDB2AD4072100EE17B7 /* MeetingView.swift */,
 				036CBBC32ABF17210074F2BE /* Assets.xcassets */,
 				036CBBC52ABF17210074F2BE /* Scrumdinger.entitlements */,
 				036CBBC62ABF17210074F2BE /* Preview Content */,
@@ -141,6 +144,7 @@
 			files = (
 				036CBBC22ABF171F0074F2BE /* ContentView.swift in Sources */,
 				036CBBC02ABF171F0074F2BE /* ScrumdingerApp.swift in Sources */,
+				03C36EDC2AD4072100EE17B7 /* MeetingView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
